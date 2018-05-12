@@ -1,0 +1,42 @@
+_repo: Gaspar-the-Gaucho--A-Story-of-the-Gran-Chaco_23648
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Tilney, F. C. (Frederick Colin)
+    alias: Tilney, Frederick Colin
+    birthdate: 1870
+    deathdate: 1951
+    gutenberg_agent_id: '9901'
+    url: http://www.gutenberg.org/2009/agents/9901
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reid, Mayne
+    aliases:
+    - Mayne-Reid, Captain
+    - Reid, Thomas Mayne
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '6260'
+    url: http://www.gutenberg.org/2009/agents/6260
+    wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
+description: ''
+gutenberg_issued: '2007-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23648'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcc 'PR'
+- !lcsh 'Gran Chaco -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'South America -- Juvenile fiction'
+- !lcsh 'Indians of South America -- Juvenile fiction'
+title: 'Gaspar the Gaucho: A Story of the Gran Chaco'
+url: http://www.gutenberg.org/ebooks/23648
